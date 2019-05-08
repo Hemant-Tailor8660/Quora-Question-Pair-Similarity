@@ -13,3 +13,5 @@ We are tasked with predicting whether a pair of questions are duplicates or not.
 - Interpretability is partially important.
 ## Author
 - Hemant Tailor
+## Acknowledgements
+Applied AI
